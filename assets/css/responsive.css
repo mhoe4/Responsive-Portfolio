@@ -5,21 +5,28 @@
     height: 100px;
   }
 
-  header, .header-links {
+  header, .header-links, .header-section{
     display: block;
     margin: 0 auto;
     text-align: center;
-    width:90%;
+    width:100%;
   }
   
   h1 {
-    margin-left: 65px;
+    float: none;
+    width: 100%;
+    text-align: center;
   }
 
   .header-links {
-    margin-left: 50px;
-    margin-right: 50px;
+    float: none;
+    text-align: center;
     margin-top: 10px;
+  }
+
+  ul {
+    margin: 0 auto;
+    width: 255px;
   }
 
   .main-section {
@@ -29,3 +36,4 @@
 
 @media screen and (max-width: 768px) {
 }
+
