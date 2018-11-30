@@ -35,5 +35,29 @@
 }
 
 @media screen and (max-width: 768px) {
+  
+
+  .header-section {
+    width: 100%;
+  }
+  
+
+
+  .main-section {
+    width: 90%;
+  }
 }
 
+@media screen and (max-width: 980px) {
+  
+
+  .header-section {
+    width: 100%;
+  }
+  
+
+
+  .main-section {
+    width: 90%;
+  }
+}
