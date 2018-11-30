@@ -163,23 +163,3 @@ footer {
     bottom: 0;
     display: inline-block;
 }
-
-@media screen and (max-width: 320px) {
-
-    h1 {
-        padding: 15px 15px 15px 15px;
-        margin: auto;
-        font-size: 28px;
-        color: #ffffff;
-        background-color: #4aaaa5;
-        border-left: 1px solid #2c928d;
-        border-right: 1px solid #2c928d;
-        text-align: center;
-    }
-    
-    .header-links {
-        margin-top: 25px;
-        text-align: center;
-        color: #777777;
-    }
-}
